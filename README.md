@@ -1,2 +1,1 @@
-# git_test
-setting up git
+"hello odin"
